@@ -1,1 +1,1 @@
-Hello, My name is Rajesh Halder. I started learning React from scratch to advance.
+Hello, My name is Rajesh Halder. I started learning React from #Hitechchoudhary Sir(Chai aur React) scratch to advance. This is my practice repo where I upload react thing which I learned.
