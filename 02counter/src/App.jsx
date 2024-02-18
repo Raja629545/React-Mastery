@@ -4,12 +4,14 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  let [counter, setCounter] = useState(15)
+  let [counter, setCounter] = useState(15)   // use of hooks
 
   //let counter = 25
 
+  // we use react for maintain different changes in the UI
+  
   const addValue = () =>{
-    if(counter < 20){
+    if(counter < 20){           // This is the condition where the value does not going further
     counter = counter + 1;
     setCounter(counter);}
     console.log("Value added", counter);
